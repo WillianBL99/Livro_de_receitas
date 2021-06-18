@@ -1,13 +1,4 @@
-	#Strogonoff de Frango
+# Livro de Receitas ??
+### Olá! Bem vindos ao livro de receitas
 
-	##**Ingredientes**
-
-	- frango
-	- queijo
-	- extrato de tomate
-	
-	##**Modo de preparo**
-
-	- coloca tudo no fogo e assa
-
-
+- Strogonoff ???
